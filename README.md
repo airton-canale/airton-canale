@@ -43,15 +43,19 @@
 
   
   ##
- 
+  
 <div> 
+  
   <h1>My Projects</h1>
-  <ul>
-    <li><a href"interface-tailwind.canale.dev">Interface Tailwind</a></li>
-    <li><a href"mario-jump.canale.dev">Mario Jump</a></li>
-    <li><a href"react-calculator.canale.dev">React Calculator</a></li>
-    <li><a href"weather.canale.dev">Weather Web</a></li>
-  </ul>
+  
+  [Interface Tailwind](interface-tailwind.canale.dev)
+  
+  [Mario Jump](mario-jump.canale.dev)
+  
+  [Weather Web](weather.canale.dev)
+  
+  [React Calculator](react-calculator.canale.dev)
+
 </div>
 <div>
   <a href="https://instagram.com/a_irton" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
