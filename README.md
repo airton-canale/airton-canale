@@ -45,6 +45,15 @@
   ##
  
 <div> 
+  <h1>My Projects</h1>
+  <ul>
+    <li><a href"interface-tailwind.canale.dev">Interface Tailwind</a></li>
+    <li><a href"mario-jump.canale.dev">Mario Jump</a></li>
+    <li><a href"react-calculator.canale.dev">React Calculator</a></li>
+    <li><a href"weather.canale.dev">Weather Web</a></li>
+  </ul>
+</div>
+<div>
   <a href="https://instagram.com/a_irton" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:airtonluizcanalefilho@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/airton-canale-045967237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
