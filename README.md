@@ -48,13 +48,18 @@
   
   <h1>My Projects</h1>
   
-  [Interface Tailwind](interface-tailwind.canale.dev)
+  [Interface Tailwind](https://interface-tailwind.canale.dev/)
   
-  [Mario Jump](mario-jump.canale.dev)
+  [Mario Jump](https://mario-jump.canale.dev)
   
-  [Weather Web](weather.canale.dev)
+  [Weather Web](https://weather.canale.dev)
   
-  [React Calculator](react-calculator.canale.dev)
+  [React Calculator](https://react-calculator.canale.dev)
+  
+  [Starbucks Page ](https://starbucks.canale.dev)
+
+  
+  
 
 </div>
 <div>
