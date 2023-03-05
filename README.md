@@ -56,7 +56,7 @@
   
   [Interface Tailwind](https://interface-tailwind.canale.dev/)
   
-  [Pinterest Page](https://starbucks.canale.dev](https://pinterest-page.canale.dev)
+  [Pinterest Page](https://pinterest-page.canale.dev)
    
   [Weather Web](https://weather.canale.dev)
   
@@ -64,7 +64,7 @@
     
   [React Calculator](https://react-calculator.canale.dev)
   
-  [Starbucks Page ](https://starbucks.canale.dev)
+  [Starbucks Page](https://starbucks.canale.dev)
   
   
 
