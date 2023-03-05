@@ -48,15 +48,25 @@
   
   <h1>My Projects</h1>
   
+  [Portfolio](https://airton.canale.dev/)
+  
+  [Chat Firebase](https://chat-firebase.canale.dev/)
+  
+  [Netflix Clone](https://netflix.canale.dev/)
+  
   [Interface Tailwind](https://interface-tailwind.canale.dev/)
   
-  [Mario Jump](https://mario-jump.canale.dev)
-  
+  [Pinterest Page](https://starbucks.canale.dev](https://pinterest-page.canale.dev)
+   
   [Weather Web](https://weather.canale.dev)
   
+  [Mario Jump](https://mario-jump.canale.dev)
+    
   [React Calculator](https://react-calculator.canale.dev)
   
   [Starbucks Page ](https://starbucks.canale.dev)
+  
+  
 
   
   
