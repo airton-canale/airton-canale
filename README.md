@@ -1,4 +1,11 @@
-<h1 align="center"> 👋 Hey there, I'm Airton Canale Frontend Developer!</h1>
+<h1></h1>
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&background=none&lines=👋+Hey+there%2C+I'm+Airton Canale" alt="Typing SVG" />
+  </a>
+</p>
+<h1></h1>
+
 <div align="center">
   <a href="https://github.com/airton-canale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airton-canale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -77,6 +84,8 @@
   <a href = "mailto:airtonluizcanalefilho@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/airton-canale-045967237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/airton-canale/airton-canale/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/airton-canale/airton-canale/output/snake.svg" alt="Snake animation" />
+  
+
  
 </div>
