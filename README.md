@@ -1,8 +1,6 @@
 <h1></h1>
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&background=none&lines=👋+Hey+there%2C+I'm+Airton Canale" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&background=none&lines=%F0%9F%91%8B+Hey+there%2C+I%27m+Airton+Canale" alt="Typing SVG" />
 </p>
 <h1></h1>
 
